@@ -157,23 +157,23 @@
                                 validators) - Researcher's developed tool (if applicable)</span>
                         </label>
                         <label class="flex items-start space-x-2 max-sm:text-sm/6">
-                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="7_12_yrs_eng">
+                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="eng_7_12_yrs">
                             <span>Child Assent for Children Ages 7-12 years - English Version (if applicable)</span>
                         </label>
                         <label class="flex items-start space-x-2 max-sm:text-sm/6">
-                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="7_12_yrs_fil">
+                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="fil_7_12_yrs">
                             <span>
                                 Child Assent for Children Ages 7-12 years - Filipino/Dialect Version (if applicable)
                             </span>
                         </label>
                         <label class="flex items-start space-x-2 max-sm:text-sm/6">
-                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="13_17_yrs_eng">
+                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="eng_13_17_yrs">
                             <span>
                                 Child Assent for Children Ages 13-17 years - English Version (if applicable)
                             </span>
                         </label>
                         <label class="flex items-start space-x-2 max-sm:text-sm/6">
-                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="13_17_yrs_fil">
+                            <input type="checkbox" class="mt-1 max-sm:w-[14px] max-sm:h-[14px]" name="fil_13_17_yrs">
                             <span>
                                 Child Assent for Children Ages 13-17 years - Filipino/Dialect Version (if applicable)
                             </span>
