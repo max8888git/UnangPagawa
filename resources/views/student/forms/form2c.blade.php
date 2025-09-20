@@ -154,7 +154,7 @@
                                     what is expected to them.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="research_procedures" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -168,7 +168,7 @@
                                     why they were selected.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="participant_selection" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -181,7 +181,7 @@
                                     Reiterate that their participation in the study is VOLUNTARY.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="participation_study" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -194,7 +194,7 @@
                                     Mention the estimated duration of the research study; specify dates if possible.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="duration" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -208,7 +208,7 @@
                                     mention all clearly.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="potential_risks" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -223,7 +223,7 @@
                                     of your research study, all benefits should be mentioned.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="potential_benefits" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -237,7 +237,7 @@
                                     mental, and social) would be managed and addressed.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="management_study_injuries" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -254,7 +254,7 @@
                                     please mention this as well.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="compensation" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -268,7 +268,7 @@
                                     by participating in your research study.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="confidentiality" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -282,7 +282,7 @@
                                     refuse to participate
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="voluntary_participation" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -354,7 +354,7 @@
                                     the study participants'/patients' welfare in mind.
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="approval_mcuerb" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                         <div>
@@ -367,7 +367,7 @@
                                     Indicate the Contact information of the MCUERB
                                 </span>
                             </label>
-                            <textarea name="research_purpose" id=""
+                            <textarea name="contact_mcuerb" id=""
                                 class="mt-1 w-full resize-none max-sm:text-sm"></textarea>
                         </div>
                     </div>
@@ -452,7 +452,7 @@
                                 name="study_nature" data-group="5">
                             <span>Yes</span>
                             <input type="checkbox" class="check mt-1 max-sm:w-[14px] max-sm:h-[14px]"
-                                name="information_sheet" data-group="5">
+                                name="study_nature" data-group="5">
                             <span>No</span>
                         </div>
                     </div>
